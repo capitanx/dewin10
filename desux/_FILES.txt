@@ -1,0 +1,2 @@
+windesux.reg	- Windows registry decrap
+fwdesux.ps1	- Windows firewall decrap (run with powershell as adminisitrator)

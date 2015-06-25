@@ -1,0 +1,1 @@
+registerStore.ps1	- Re-register Metro^H^H^H^H^HModern UI shit
