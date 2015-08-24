@@ -1,2 +1,3 @@
 windesux.reg	- Windows registry decrap
 fwdesux.ps1	- Windows firewall decrap (run with powershell as adminisitrator)
+hosts.txt	- Windows %SYSTEMROOT%\System32\drivers\etc\hosts entries
